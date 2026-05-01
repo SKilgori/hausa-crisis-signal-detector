@@ -12,7 +12,7 @@ import torch
 # After training, replace this with your actual model path:
 # MODEL_PATH = "YOUR_USERNAME/hausa-crisis-signal-detector"
 # For now we use a placeholder — swap it after training
-MODEL_PATH = "Kilgori/hausa-crisis-signal-detector"
+MODEL_PATH = "Skilgori/hausa-crisis-signal-detector"
 
 # Crisis category descriptions
 CATEGORY_INFO = {

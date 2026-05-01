@@ -90,9 +90,8 @@ training_args = TrainingArguments(
     per_device_eval_batch_size=8,
     warmup_steps=10,
     weight_decay=0.01,
-    logging_dir="./logs",
     logging_steps=10,
-    evaluation_strategy="epoch",
+    eval_strategy="epoch",
     save_strategy="epoch",
     load_best_model_at_end=True,
     metric_for_best_model="f1",
@@ -105,7 +104,7 @@ trainer = Trainer(
     args=training_args,
     train_dataset=train_tokenized,
     eval_dataset=test_tokenized,
-    tokenizer=tokenizer,
+    processing_class=tokenizer,
     data_collator=data_collator,
     compute_metrics=compute_metrics,
 )
@@ -137,9 +136,9 @@ print("Model saved to ./hausa_crisis_model_final")
 # Then login: from huggingface_hub import notebook_login; notebook_login()
 # Then uncomment below and replace YOUR_USERNAME:
 
-# model.push_to_hub("YOUR_USERNAME/hausa-crisis-signal-detector")
-# tokenizer.push_to_hub("YOUR_USERNAME/hausa-crisis-signal-detector")
-# print("Model pushed to Hugging Face Hub!")
+model.push_to_hub("Skilgori/hausa-crisis-signal-detector")
+tokenizer.push_to_hub("Skilgori/hausa-crisis-signal-detector")
+print("Model pushed to Hugging Face Hub!")
 
 # ============================================================
 # AFTER TRAINING:
