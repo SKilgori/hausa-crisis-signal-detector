@@ -45,7 +45,6 @@ An ji karar harbe-harbe a yankin Minna tun safe.,conflict
 An ji karar harbe-harbe a yankin Damaturu tun safe.,conflict
 An tsinci gawarwakin mutane bayan harin 'yan bindiga.,conflict
 An kona gidaje da shaguna a rikicin Damaturu.,conflict
-An tsinci gawarwakin mutane bayan harin 'yan bindiga.,conflict
 Sojoji sun fatattaki 'yan ta'adda a dajin Gusau.,conflict
 Harin kunar bakin wake ya faru a Dutse.,conflict
 Harin kunar bakin wake ya faru a Damaturu.,conflict
@@ -55,21 +54,18 @@ An kai hari a garin Maiduguri jiya da daddare.,conflict
 Mutane da dama sun rasa rayukansu a sabon harin Lafia.,conflict
 Harin kunar bakin wake ya faru a Hadejia.,conflict
 Harin kunar bakin wake ya faru a Maiduguri.,conflict
-Harin kunar bakin wake ya faru a Hadejia.,conflict
 Mutane da dama sun rasa rayukansu a sabon harin Maiduguri.,conflict
 An sanya dokar hana fita a Potiskum saboda rashin tsaro.,conflict
 An sanya dokar hana fita a Yola saboda rashin tsaro.,conflict
 An kai hari a garin Hadejia jiya da daddare.,conflict
 Rikici ya barke tsakanin matasa da matasa a Bauchi.,conflict
 An ji karar harbe-harbe a yankin Gombe tun safe.,conflict
-An ji karar harbe-harbe a yankin Minna tun safe.,conflict
 An ji karar harbe-harbe a yankin Maiduguri tun safe.,conflict
 An ji karar harbe-harbe a yankin Lafia tun safe.,conflict
 Rikici ya barke tsakanin makiyaya da yan banga a Katsina.,conflict
 An sanya dokar hana fita a Katsina saboda rashin tsaro.,conflict
 'Yan bindiga sun sace mutane 22 a hanyar Dutse.,conflict
 Muna bukatar matsuguni saboda an kore mu daga gidajenmu a Yola.,displacement
-Iyalanmu suna kwana a waje saboda rashin gida.,displacement
 Iyalanmu suna kwana a waje saboda rashin gida.,displacement
 "Ba mu da wurin kwana, muna bukatar taimako a Gombe.",displacement
 "Mun rasa komai namu, muna gudun hijira yanzu.",displacement
@@ -91,12 +87,9 @@ Mutane sun bar Kano saboda tsoron hare-hare.,displacement
 An tilasta wa mazauna Damaturu barin garinsu.,displacement
 An tilasta wa mazauna Gumel barin garinsu.,displacement
 Muna neman mafaka a makarantar Potiskum.,displacement
-Sansanin IDP na Bichi ya cika da mutane.,displacement
 Muna neman mafaka a makarantar Gombe.,displacement
-Muna bukatar matsuguni saboda an kore mu daga gidajenmu a Yola.,displacement
 Sansanin IDP na Daura ya cika da mutane.,displacement
 Muna neman mafaka a makarantar Sokoto.,displacement
-Iyalanmu suna kwana a waje saboda rashin gida.,displacement
 Dubban mutane sun gudu daga Daura zuwa sansanin gudun hijira.,displacement
 "Farashin hatsi ya tashi a Dutse, talaka ba zai iya saya ba.",food_insecurity
 Babu abinci a wannan yankin kwata-kwata.,food_insecurity
@@ -108,26 +101,19 @@ Muna bukatar agajin abinci cikin gaggawa a Kaduna.,food_insecurity
 Agajin abinci da aka kawo Gumel bai isa kowa ba.,food_insecurity
 Yara suna fama da rashin abinci mai gina jiki a Dutse.,food_insecurity
 Ba mu ci abinci ba tun jiya a Yola.,food_insecurity
-Babu abinci a wannan yankin kwata-kwata.,food_insecurity
 "Farashin hatsi ya tashi a Kano, talaka ba zai iya saya ba.",food_insecurity
 "Farashin hatsi ya tashi a Potiskum, talaka ba zai iya saya ba.",food_insecurity
 Muna bukatar agajin abinci cikin gaggawa a Bauchi.,food_insecurity
 "Farashin hatsi ya tashi a Lafia, talaka ba zai iya saya ba.",food_insecurity
 Rashin abinci ya sa mutane da yawa rashin lafiya.,food_insecurity
-"Amfanin gona ya lalace a Hadejia, babu abin da za mu ci.",food_insecurity
-Rashin abinci ya sa mutane da yawa rashin lafiya.,food_insecurity
 Ba mu ci abinci ba tun jiya a Katsina.,food_insecurity
 "Amfanin gona ya lalace a Bauchi, babu abin da za mu ci.",food_insecurity
-Rashin abinci ya sa mutane da yawa rashin lafiya.,food_insecurity
-Mutane suna cin ganyen bishiya saboda yunwa.,food_insecurity
 Mutane suna cin ganyen bishiya saboda yunwa.,food_insecurity
 Yunwa tana kashe mutane a Bauchi.,food_insecurity
 Yunwa tana kashe mutane a Minna.,food_insecurity
 Agajin abinci da aka kawo Daura bai isa kowa ba.,food_insecurity
-Rashin abinci ya sa mutane da yawa rashin lafiya.,food_insecurity
 Ba mu ci abinci ba tun jiya a Gusau.,food_insecurity
 Yunwa tana kashe mutane a Jalingo.,food_insecurity
-Mutane suna cin ganyen bishiya saboda yunwa.,food_insecurity
 An killace wasu mutane saboda zargin cutar kyanda.,disease_outbreak
 Mutane da yawa suna mutuwa a Yola saboda rashin magani.,disease_outbreak
 Babu isassun ma'aikatan lafiya don kula da marasa lafiya a Sokoto.,disease_outbreak
@@ -142,7 +128,6 @@ An killace wasu mutane saboda zargin cutar polio.,disease_outbreak
 An gano sabon nau'in cuta a yankin Daura.,disease_outbreak
 Yara suna bukatar rigakafin cutar kwalara a Gumel.,disease_outbreak
 An gano sabon nau'in cuta a yankin Jalingo.,disease_outbreak
-Cutar ta shafi kauyuka da dama a karamar hukumar Dutse.,disease_outbreak
 An killace wasu mutane saboda zargin cutar korona.,disease_outbreak
 Muna bukatar magunguna da kayan aiki a asibitin Hadejia.,disease_outbreak
 Babu isassun ma'aikatan lafiya don kula da marasa lafiya a Kaduna.,disease_outbreak
@@ -166,7 +151,6 @@ An ba da sanarwar ambaliya ga mazauna gabar kogi a Zaria.,flood
 Ambaliyar ruwa ta mamaye garin Gusau.,flood
 Ruwa ya tafi da dabbobinmu da kayan amfanin gona a Lafia.,flood
 "Gonaki sun nutse cikin ruwa a Kano, manoma sun yi asara.",flood
-An ba da sanarwar ambaliya ga mazauna gabar kogi a Zaria.,flood
 Ruwan sama ya rushe gidaje sama da dari a Minna.,flood
 Mutane suna amfani da kwalara don tsallakawa a Kano.,flood
 Ruwa ya tafi da dabbobinmu da kayan amfanin gona a Yola.,flood
@@ -183,7 +167,6 @@ Mutane suna amfani da kwalara don tsallakawa a Bichi.,flood
 An ba da sanarwar ambaliya ga mazauna gabar kogi a Potiskum.,flood
 An katse hanyar Daura saboda ambaliya.,flood
 Ruwa ya tafi da dabbobinmu da kayan amfanin gona a Gusau.,flood
-Muna bukatar taimakon gaggawa bayan ambaliyar Yola.,flood
 Muna bukatar taimakon gaggawa bayan ambaliyar Hadejia.,flood
 Mutane suna amfani da kwalara don tsallakawa a Gumel.,flood
 An katse hanyar Minna saboda ambaliya.,flood
@@ -206,10 +189,8 @@ Manoma suna girbin amfanin gona a Gombe wannan kakar.,no_crisis
 An gudanar da wasan kwallon kafa a filin wasa na Daura.,no_crisis
 Manoma suna girbin amfanin gona a Minna wannan kakar.,no_crisis
 Gwamnati ta kaddamar da sabon aikin hanya a Kaduna.,no_crisis
-Manoma suna girbin amfanin gona a Zaria wannan kakar.,no_crisis
 Garin Dutse yana cikin kwanciyar hankali da zaman lafiya.,no_crisis
 An bude sabon babban kanti a tsakiyar gari na Sokoto.,no_crisis
-Manoma suna girbin amfanin gona a Minna wannan kakar.,no_crisis
 An bude sabon babban kanti a tsakiyar gari na Gumel.,no_crisis
 An yi biki lafiya a garin Bichi.,no_crisis
 Jama'a suna gudanar da harkokinsu na yau da kullum a Jalingo.,no_crisis
